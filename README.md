@@ -14,19 +14,19 @@
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
-🎯 About Me
+
+
+
+## 🎯 About Me
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
-```typescript
-const nbasLongz = {
-  name: "Nguyễn Bá Long",
-  university: "University of Information Technology (UIT)",
-  major: "Computer Science",
-};
-
-console.log(nbasLongz);
+- Name: Nguyen Ba Long
+- University: "University of Information Technology (UIT)
+- Major: Computer science
 <br clear="right"/>
-```
+
+
+
 
 ### 💼 What I'm Up To
 
@@ -34,7 +34,7 @@ console.log(nbasLongz);
 - 🌱 **Learning:** MLOps, Kubernetes, and Advanced Deep Learning architectures  
 - 👯 **Collaboration:** Open to collaborating on AI/ML research and projects
 - 💬 **Ask me about:** Machine Learning, Data Science, Python, AI Ethics
-- 📫 **Reach me:** [Email](mailto:your.email@example.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📫 **Reach me:** [Email](mailto:longnguyen132005@gmail.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
 - ⚡ **Fun fact:** I debug code in my dreams 😴💭
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
