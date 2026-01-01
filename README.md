@@ -1,76 +1,269 @@
-<div align="center"> <!-- Animated Header --> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" /> <!-- Dynamic Typing Effect - TỰ ĐỘNG LẤY TỪ GITHUB --> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3FDBF7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Data+Scientist+%7C+AI+Researcher+🤖;Machine+Learning+Engineer+📊;Python+Developer+🐍;Always+Learning+%26+Building+⚡" alt="Typing SVG" /> </a> <!-- Profile Views & Followers - TỰ ĐỘNG CẬP NHẬT --> <p> <img src="https://komarev.com/ghpvc/?username=NBasLongz&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views" /> <img src="https://img.shields.io/github/followers/NBasLongz?label=Followers&style=flat-square&color=blue" alt="followers" /> <img src="https://img.shields.io/github/stars/NBasLongz?label=Stars&style=flat-square&color=yellow" alt="stars" /> </p> </div>
-👨‍💻 About Me
 <div align="center">
-🔭 Working on ML & NLP Projects
-🌱 Learning Advanced Deep Learning & MLOps
-👯 Open to Collaboration on AI/ML Projects
-💬 Ask me about Python, Machine Learning, Data Science
-⚡ Fun fact: I turn coffee into code ☕→💻
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Welcome%20to%20My%20Profile!&fontSize=55&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Data%20Scientist%20%7C%20AI%20Researcher%20%7C%20ML%20Engineer&descSize=20&descAlignY=55" />
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=120&lines=🤖+Building+Intelligent+Systems;📊+Transforming+Data+into+Insights;🐍+Crafting+Clean+%26+Efficient+Code;⚡+Always+Learning+%26+Innovating" alt="Typing SVG" />
+</a>
+<!-- Animated Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=NBasLongz&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/NBasLongz?label=Followers&style=for-the-badge&color=FF6B6B" alt="followers" />
+  <img src="https://img.shields.io/github/stars/NBasLongz?label=Total%20Stars&style=for-the-badge&color=FFC107" alt="stars" />
+</p>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+🎯 About Me
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+```typescript
+const nbasLongz = {
+    name: "Your Name",
+    location: "Ho Chi Minh City 🇻🇳",
+    education: "Computer Science | AI/ML",
+    currentFocus: ["Deep Learning", "NLP", "Computer Vision"],
+    dailyRoutine: ["☕ Coffee", "💻 Code", "📚 Learn", "🔄 Repeat"],
+getSkills: function() {
+    return {
+        languages: ["Python", "C++", "SQL"],
+        frameworks: ["PyTorch", "TensorFlow", "Scikit-learn"],
+        tools: ["Docker", "Git", "Jupyter"],
+        databases: ["PostgreSQL", "MongoDB"]
+    };
+},
+
+lifeGoal: "Building AI that makes a difference 🚀"
+};
+
+<br clear="right"/>
+
+### 💼 What I'm Up To
+
+- 🔭 **Current Project:** Building advanced NLP models for Vietnamese text analysis
+- 🌱 **Learning:** MLOps, Kubernetes, and Advanced Deep Learning architectures  
+- 👯 **Collaboration:** Open to collaborating on AI/ML research and projects
+- 💬 **Ask me about:** Machine Learning, Data Science, Python, AI Ethics
+- 📫 **Reach me:** [Email](mailto:your.email@example.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
+- ⚡ **Fun fact:** I debug code in my dreams 😴💭
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  <!-- Main Stats Cards -->
+  <table align="center">
+    <tr>
+      <td>
+        <img height="195em" src="https://github-readme-stats.vercel.app/api?username=NBasLongz&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=ffffff&border_radius=10&ring_color=00D9FF"/>
+      </td>
+      <td>
+        <img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=NBasLongz&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=ffffff&sideLabels=00D9FF&border_radius=10"/>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Language Stats -->
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NBasLongz&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&border_radius=10&langs_count=10&exclude_repo=NBasLongz&card_width=445"/>
 
 </div>
-📊 GitHub Statistics (TỰ ĐỘNG CẬP NHẬT)
-<div align="center"> <!-- GitHub Stats Card - TỰ ĐỘNG LẤY DỮ LIỆU --> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NBasLongz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=8"/> <!-- GitHub Streak - TỰ ĐỘNG CẬP NHẬT --> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NBasLongz&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9&border_radius=8"/> </div> <div align="center"> <!-- Top Languages - TỰ ĐỘNG PHÂN TÍCH CODE CỦA BẠN --> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NBasLongz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=8&langs_count=8&exclude_repo=NBasLongz"/> </div> <!-- Activity Graph - TỰ ĐỘNG CẬP NHẬT CONTRIBUTIONS --> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=NBasLongz&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&area_color=1F6FEB" alt="Contribution Graph" /> </div> <!-- GitHub Trophies - TỰ ĐỘNG THEO DÕI THÀNH TỰU --> <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=NBasLongz&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" /> </div>
-🚀 Featured Projects (TỰ ĐỘNG LẤY TỪ REPOS CỦA BẠN)
-<div align="center"> <!-- Repo Cards - TỰ ĐỘNG HIỂN THỊ THÔNG TIN REPO --> <a href="https://github.com/NBasLongz/SENTIMENT-AND-TOPIC-ANALYSIS-OF-VIETNAMESE-UNIVERSITY-STUDENTS-COURSE-EVALUATIONS"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NBasLongz&repo=SENTIMENT-AND-TOPIC-ANALYSIS-OF-VIETNAMESE-UNIVERSITY-STUDENTS-COURSE-EVALUATIONS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" /> </a> <a href="https://github.com/NBasLongz/CS313-UIT"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NBasLongz&repo=CS313-UIT&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" /> </a> <a href="https://github.com/NBasLongz/Animal_Classification"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NBasLongz&repo=Animal_Classification&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" /> </a> <a href="https://github.com/NBasLongz/Multimedia-Retrieval-System"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NBasLongz&repo=Multimedia-Retrieval-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" /> </a> <a href="https://github.com/NBasLongz/Quan-Ly-Dai-Ly"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NBasLongz&repo=Quan-Ly-Dai-Ly&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" /> </a> <a href="https://github.com/NBasLongz/AnimalClassification"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NBasLongz&repo=AnimalClassification&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" /> </a> </div>
-🛠️ Tech Stack
+
+<br/>
+
+<!-- Contribution Graph -->
 <div align="center">
-Languages & Frameworks
-Show Image
-Show Image
-Show Image
-Show Image
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NBasLongz&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=00D9FF&area=true&area_color=FF6B6B&height=300" alt="Contribution Graph" />
+</div>
 
-AI/ML & Data Science
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+<!-- Trophies -->
+<div align="center">
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=NBasLongz&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+</div>
 
-Web Development
-Show Image
-Show Image
-Show Image
-Show Image
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Databases & Tools
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![Sentiment Analysis](https://github-readme-stats.vercel.app/api/pin/?username=NBasLongz&repo=SENTIMENT-AND-TOPIC-ANALYSIS-OF-VIETNAMESE-UNIVERSITY-STUDENTS-COURSE-EVALUATIONS&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=ffffff)](https://github.com/NBasLongz/SENTIMENT-AND-TOPIC-ANALYSIS-OF-VIETNAMESE-UNIVERSITY-STUDENTS-COURSE-EVALUATIONS)
+[![CS313](https://github-readme-stats.vercel.app/api/pin/?username=NBasLongz&repo=CS313-UIT&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=ffffff)](https://github.com/NBasLongz/CS313-UIT)
+
+[![Animal Classification](https://github-readme-stats.vercel.app/api/pin/?username=NBasLongz&repo=Animal_Classification&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=ffffff)](https://github.com/NBasLongz/Animal_Classification)
+[![Multimedia Retrieval](https://github-readme-stats.vercel.app/api/pin/?username=NBasLongz&repo=Multimedia-Retrieval-System&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=ffffff)](https://github.com/NBasLongz/Multimedia-Retrieval-System)
+
+[![Quan Ly Dai Ly](https://github-readme-stats.vercel.app/api/pin/?username=NBasLongz&repo=Quan-Ly-Dai-Ly&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=ffffff)](https://github.com/NBasLongz/Quan-Ly-Dai-Ly)
 
 </div>
-🐍 Contribution Snake (TỰ ĐỘNG ĂN CONTRIBUTIONS)
-<div align="center"> <!-- Snake Animation - TỰ ĐỘNG CẬP NHẬT MỖI 12H --> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NBasLongz/NBasLongz/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NBasLongz/NBasLongz/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NBasLongz/NBasLongz/output/github-contribution-grid-snake.svg"> </picture> </div>
-📈 Detailed Stats
-<div align="center"> <!-- Profile Summary Card - TỰ ĐỘNG TẠO SUMMARY --> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NBasLongz&theme=tokyonight" /> <table> <tr> <td> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NBasLongz&theme=tokyonight" /> </td> <td> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NBasLongz&theme=tokyonight" /> </td> </tr> <tr> <td> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NBasLongz&theme=tokyonight" /> </td> <td> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NBasLongz&theme=tokyonight&utcOffset=7" /> </td> </tr> </table> </div>
-💭 Random Dev Quote
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🛠️ Tech Stack & Tools
+
 <div align="center">
-Show Image
+
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+**AI/ML & Data Science**
+<br/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+
+**Tools & Platforms**
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
 
 </div>
-📫 Connect With Me
+
+---
+
+### 💭 Random Dev Quote
 <div align="center">
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
+
+---
+
+## 📈 Detailed Analytics
+
+<div align="center">
+  <table align="center">
+    <tr>
+      <td colspan="2">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NBasLongz&theme=radical" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NBasLongz&theme=radical" />
+      </td>
+      <td>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NBasLongz&theme=radical" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NBasLongz&theme=radical" />
+      </td>
+      <td>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NBasLongz&theme=radical&utcOffset=7" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NBasLongz/NBasLongz/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NBasLongz/NBasLongz/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NBasLongz/NBasLongz/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 😂 Random Dev Meme
+
 <div align="center">
-💖 Support My Work
-Show Image
-Show Image
+
+<img src='https://memer-new.vercel.app/' style="height: 400px;" alt="Meme"/>
 
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" /> <div align="center">
-Show some ❤️ by starring some repositories!
-Show Image
 
-Made with ❤️ and lots of ☕ by NBasLongz
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+### 💌 Get in Touch
+
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://linkedin.com/in/yourprofile">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/yourprofile">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="https://kaggle.com/yourprofile">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+</a>
+<a href="https://medium.com/@yourprofile">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+</a>
+
+<br/><br/>
+
+### 🎵 Now Playing on Spotify
+
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-id)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💰 Support My Work
+
+<div align="center">
+
+If you like my work, consider buying me a coffee! ☕
+
+<a href="https://www.buymeacoffee.com/yourprofile">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+</a>
+<a href="https://ko-fi.com/yourprofile">
+  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  
+  <!-- Footer Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" />
+  
+  <!-- Footer Text with Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+✨;Let's+build+something+amazing+together!+🚀;Happy+Coding!+💻" alt="Footer Typing SVG" />
+  
+  <br/><br/>
+  
+  <h3>💚 Made with passion, coffee ☕ and lots of bugs 🐛 by NBasLongz</h3>
+  
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" />
 
 </div>
