@@ -15,27 +15,18 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 🎯 About Me
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+
 ```typescript
 const nbasLongz = {
-    name: "Your Name",
-    location: "Ho Chi Minh City 🇻🇳",
-    education: "Computer Science | AI/ML",
-    currentFocus: ["Deep Learning", "NLP", "Computer Vision"],
-    dailyRoutine: ["☕ Coffee", "💻 Code", "📚 Learn", "🔄 Repeat"],
-getSkills: function() {
-    return {
-        languages: ["Python", "C++", "SQL"],
-        frameworks: ["PyTorch", "TensorFlow", "Scikit-learn"],
-        tools: ["Docker", "Git", "Jupyter"],
-        databases: ["PostgreSQL", "MongoDB"]
-    };
-},
-
-lifeGoal: "Building AI that makes a difference 🚀"
+  name: "Nguyễn Bá Long",
+  university: "University of Information Technology (UIT)",
+  major: "Computer Science",
 };
 
+console.log(nbasLongz);
 <br clear="right"/>
+```
 
 ### 💼 What I'm Up To
 
@@ -80,22 +71,6 @@ lifeGoal: "Building AI that makes a difference 🚀"
 <div align="center">
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=NBasLongz&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Sentiment Analysis](https://github-readme-stats.vercel.app/api/pin/?username=NBasLongz&repo=SENTIMENT-AND-TOPIC-ANALYSIS-OF-VIETNAMESE-UNIVERSITY-STUDENTS-COURSE-EVALUATIONS&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=ffffff)](https://github.com/NBasLongz/SENTIMENT-AND-TOPIC-ANALYSIS-OF-VIETNAMESE-UNIVERSITY-STUDENTS-COURSE-EVALUATIONS)
-[![CS313](https://github-readme-stats.vercel.app/api/pin/?username=NBasLongz&repo=CS313-UIT&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=ffffff)](https://github.com/NBasLongz/CS313-UIT)
-
-[![Animal Classification](https://github-readme-stats.vercel.app/api/pin/?username=NBasLongz&repo=Animal_Classification&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=ffffff)](https://github.com/NBasLongz/Animal_Classification)
-[![Multimedia Retrieval](https://github-readme-stats.vercel.app/api/pin/?username=NBasLongz&repo=Multimedia-Retrieval-System&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=ffffff)](https://github.com/NBasLongz/Multimedia-Retrieval-System)
-
-[![Quan Ly Dai Ly](https://github-readme-stats.vercel.app/api/pin/?username=NBasLongz&repo=Quan-Ly-Dai-Ly&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=ffffff)](https://github.com/NBasLongz/Quan-Ly-Dai-Ly)
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -191,15 +166,6 @@ lifeGoal: "Building AI that makes a difference 🚀"
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 😂 Random Dev Meme
-
-<div align="center">
-
-<img src='https://memer-new.vercel.app/' style="height: 400px;" alt="Meme"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📫 Let's Connect!
 
@@ -207,7 +173,7 @@ lifeGoal: "Building AI that makes a difference 🚀"
 
 ### 💌 Get in Touch
 
-<a href="mailto:your.email@example.com">
+<a href="mailto:your.longnguyen132005@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 <a href="https://linkedin.com/in/yourprofile">
@@ -233,37 +199,3 @@ lifeGoal: "Building AI that makes a difference 🚀"
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💰 Support My Work
-
-<div align="center">
-
-If you like my work, consider buying me a coffee! ☕
-
-<a href="https://www.buymeacoffee.com/yourprofile">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-</a>
-<a href="https://ko-fi.com/yourprofile">
-  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-  
-  <!-- Footer Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" />
-  
-  <!-- Footer Text with Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+✨;Let's+build+something+amazing+together!+🚀;Happy+Coding!+💻" alt="Footer Typing SVG" />
-  
-  <br/><br/>
-  
-  <h3>💚 Made with passion, coffee ☕ and lots of bugs 🐛 by NBasLongz</h3>
-  
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" />
-
-</div>
