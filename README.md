@@ -39,38 +39,49 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-##  GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
-  
-  <!-- Main Stats Cards -->
+
   <table align="center">
     <tr>
       <td>
-        <img height="195em" src="https://github-readme-stats.vercel.app/api?username=NBasLongz&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=ffffff&border_radius=10&ring_color=00D9FF"/>
+        <img height="195em"
+          src="https://github-readme-stats.vercel.app/api?username=NBasLongz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&cache_seconds=21600"
+          alt="GitHub Stats" />
       </td>
       <td>
-        <img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=NBasLongz&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=ffffff&sideLabels=00D9FF&border_radius=10"/>
+        <img height="195em"
+          src="https://streak-stats.demolab.com?user=NBasLongz&hide_border=true&theme=transparent"
+          alt="GitHub Streak" />
       </td>
     </tr>
   </table>
 
-  <!-- Language Stats -->
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NBasLongz&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&border_radius=10&langs_count=10&exclude_repo=NBasLongz&card_width=445"/>
+  <img height="195em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NBasLongz&layout=compact&hide_border=true&theme=transparent&langs_count=10&exclude_repo=NBasLongz&card_width=445&cache_seconds=21600"
+    alt="Top Languages" />
+
+</div>
+
 
 </div>
 
 <br/>
 
-<!-- Contribution Graph -->
+<!-- Contribution Graph (auto theme-ish, no forced dark bg) -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NBasLongz&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=00D9FF&area=true&area_color=FF6B6B&height=300" alt="Contribution Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=NBasLongz&theme=github-compact&hide_border=true"
+    alt="Contribution Graph" />
 </div>
 
 <!-- Trophies -->
 <div align="center">
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=NBasLongz&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=NBasLongz&theme=flat&no-frame=true&margin-w=6&row=2&column=4"
+    alt="GitHub Trophies" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -107,12 +118,6 @@
 
 ---
 
-### 💭 Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</div>
-
----
 
 ##  Detailed Analytics
 
@@ -120,52 +125,67 @@
   <table align="center">
     <tr>
       <td colspan="2">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NBasLongz&theme=radical" />
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NBasLongz&theme=radical">
+            <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NBasLongz&theme=default">
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NBasLongz&theme=radical" />
+        </picture>
       </td>
     </tr>
     <tr>
       <td>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NBasLongz&theme=radical" />
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NBasLongz&theme=radical">
+            <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NBasLongz&theme=default">
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NBasLongz&theme=radical" />
+        </picture>
       </td>
       <td>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NBasLongz&theme=radical" />
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NBasLongz&theme=radical">
+            <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NBasLongz&theme=default">
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NBasLongz&theme=radical" />
+        </picture>
       </td>
     </tr>
     <tr>
       <td>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NBasLongz&theme=radical" />
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NBasLongz&theme=radical">
+            <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NBasLongz&theme=default">
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NBasLongz&theme=radical" />
+        </picture>
       </td>
       <td>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NBasLongz&theme=radical&utcOffset=7" />
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NBasLongz&theme=radical&utcOffset=7">
+            <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NBasLongz&theme=default&utcOffset=7">
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NBasLongz&theme=radical&utcOffset=7" />
+        </picture>
       </td>
     </tr>
   </table>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🐍 Contribution Snake
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NBasLongz/NBasLongz/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NBasLongz/NBasLongz/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NBasLongz/NBasLongz/output/github-contribution-grid-snake.svg">
-  </picture>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## 💡 Random Dev Quote
 
 <div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+  </picture>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+</div>
 
 ## 📫 Let's Connect!
 
