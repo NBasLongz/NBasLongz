@@ -17,7 +17,7 @@
 
 
 
-## 🎯 About Me
+##  About Me
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 - Name: Nguyen Ba Long
@@ -28,7 +28,7 @@
 
 
 
-### 💼 What I'm Up To
+###  What I'm Up To
 
 - 🔭 **Current Project:** Building advanced NLP models for Vietnamese text analysis
 - 🌱 **Learning:** MLOps, Kubernetes, and Advanced Deep Learning architectures  
@@ -39,7 +39,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   
@@ -75,7 +75,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 <div align="center">
 
@@ -114,7 +114,7 @@
 
 ---
 
-## 📈 Detailed Analytics
+##  Detailed Analytics
 
 <div align="center">
   <table align="center">
