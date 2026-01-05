@@ -24,12 +24,12 @@
 <br clear="right"/>
 
 ### What I'm Up To
-- 🔭 **Current Project:** Building advanced NLP models for Vietnamese text analysis
-- 🌱 **Learning:** MLOps, Kubernetes, and Advanced Deep Learning architectures
-- 👯 **Collaboration:** Open to collaborating on AI/ML research and projects
-- 💬 **Ask me about:** Machine Learning, Data Science, Python, AI Ethics
-- 📫 **Reach me:** [Email](mailto:longnguyen132005@gmail.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
-- ⚡ **Fun fact:** I debug code in my dreams 😴💭
+-  **Current Project:** Building advanced NLP models for Vietnamese text analysis
+-  **Learning:** MLOps, Kubernetes, and Advanced Deep Learning architectures
+-  **Collaboration:** Open to collaborating on AI/ML research and projects
+-  **Ask me about:** Machine Learning, Data Science, Python, AI Ethics
+-  **Reach me:** [Email](mailto:longnguyen132005@gmail.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
+-  **Fun fact:** I debug code in my dreams 😴💭
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
@@ -134,7 +134,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 </div>
 
-## 💡 Random Dev Quote
+##  Random Dev Quote
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
@@ -147,7 +147,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 </div>
 
-## 📫 Let's Connect!
+##  Let's Connect!
 <div align="center">
   <a href="mailto:longnguyen132005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -156,7 +156,7 @@
   </a>
   <a href="https://kaggle.com/yourprofile">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  </a>>
+  </a>
 
   <br/><br/>
 
