@@ -36,18 +36,6 @@
 </div>
 
 ## GitHub Analytics
-<div align="center">
-  <table align="center">
-    <tr>
-      <td>
-        <img height="195em"
-          src="https://streak-stats.demolab.com?user=NBasLongz&hide_border=true&theme=transparent"
-          alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-
-<br/>
 
 <!-- Contribution Graph -->
 <div align="center">
@@ -163,19 +151,12 @@
 <div align="center">
   <a href="mailto:longnguyen132005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
   <a href="https://twitter.com/yourprofile">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://kaggle.com/yourprofile">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  </a>
-  <a href="https://medium.com/@yourprofile">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
+  </a>>
 
   <br/><br/>
 
