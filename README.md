@@ -4,7 +4,6 @@
   <tr>
     <td>
       <ul>
-        <li> Check out my portfolio at <a href="mailto:longnguyen132005@gmail.com">longnguyen132005.dev</a></li>
         <li> Student at <b>University of Information Technology (UIT)</b></li>
         <li> I want to become a <b>Machine Learning Engineer</b></li>
         <li> I'm passionate about <b>AI & Natural Language Processing</b></li>
