@@ -1,20 +1,23 @@
 # Hello, I'm Nguyen Ba Long — パク・ヨンウン と申します。🐳
 
-<table>
+
+<table align="center" width="100%">
   <tr>
-    <td>
+    <td width="60%" valign="top">
       <ul>
-        <li> Student at <b>University of Information Technology (UIT)</b></li>
-        <li> I want to become a <b>Machine Learning Engineer</b></li>
-        <li> I'm passionate about <b>AI & Natural Language Processing</b></li>
-        <li> My favorite hobby is <b>Coding</b> and <b>Researching</b></li>
+        <li>  Student at <b>University of Information Technology (UIT)</b></li>
+        <li>  I want to become a <b>Machine Learning Engineer</b></li>
+        <li>  I'm passionate about <b>AI & Natural Language Processing</b></li>
+        <li>  My favorite hobby is <b>Coding</b> and <b>Researching</b></li>
+        <li> 🇯🇵 Also known as <b>パク・ヨンウン</b></li>
       </ul>
     </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300" />
+    <td width="40%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="250" />
     </td>
   </tr>
 </table>
+
 
 ### 🪶 Contact me via:
 <p align="center">
