@@ -20,7 +20,7 @@
 ### 🪶 Contact me via:
 <p align="center">
   <a href="mailto:longnguyen132005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/long-nguyen-ba-48713a3a9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/long-nguyen-ba-48713a3a9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.facebook.com/javk.nguyen.7"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
@@ -34,7 +34,7 @@
 -  **Learning:** MLOps, Kubernetes, and Advanced Deep Learning architectures
 -  **Collaboration:** Open to collaborating on AI/ML research and projects
 -  **Ask me about:** Machine Learning, Python, AI Ethics
--  **Reach me:** [Email](mailto:longnguyen132005@gmail.com) | [LinkedIn](www.linkedin.com/in/long-nguyen-ba-48713a3a9)
+-  **Reach me:** [Email](mailto:longnguyen132005@gmail.com) | [LinkedIn](https://www.linkedin.com/in/long-nguyen-ba-48713a3a9/)
 -  **Fun fact:** I debug code in my dreams 😴💭
 
 <div align="center">
