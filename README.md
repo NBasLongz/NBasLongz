@@ -1,27 +1,33 @@
+# Hello, I'm Nguyen Ba Long - aka NBasLongz
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li> Check out my portfolio at <a href="mailto:longnguyen132005@gmail.com">longnguyen132005.dev</a></li>
+        <li> Student at <b>University of Information Technology (UIT)</b></li>
+        <li> I want to become a <b>Machine Learning Engineer</b></li>
+        <li> I'm passionate about <b>AI & Natural Language Processing</b></li>
+        <li> My favorite hobby is <b>Coding</b> and <b>Researching</b></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300" />
+    </td>
+  </tr>
+</table>
+
+### 📫 Contact me via:
+<p align="center">
+  <a href="mailto:longnguyen132005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/long-nguyen-ba-48713a3a9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/javk.nguyen.7"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
+
 <div align="center">
-  <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Welcome%20to%20My%20Profile!&fontSize=55&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Data%20Scientist%20%7C%20AI%20Researcher%20%7C%20ML%20Engineer&descSize=20&descAlignY=55" />
-
-
-  <!-- Badges -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=NBasLongz&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile views" />
-    <img src="https://img.shields.io/github/followers/NBasLongz?label=Followers&style=for-the-badge&color=FF6B6B&cacheSeconds=86400" alt="followers" />
-    <img src="https://img.shields.io/github/stars/NBasLongz?label=Total%20Stars&style=for-the-badge&color=FFC107&cacheSeconds=86400" alt="stars" />
-  </p>
-
-  <!-- Divider -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 </div>
 
-## About Me
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
-
-- Name: Nguyen Ba Long
-- University: University of Information Technology (UIT)
-- Major: Computer Science
-
-<br clear="right"/>
 
 ### What I'm Up To
 -  **Current Project:** Building advanced NLP models for Vietnamese text analysis
@@ -35,20 +41,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 </div>
 
-## GitHub Analytics
-
-<!-- Contribution Graph -->
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=NBasLongz&theme=github-compact&hide_border=true"
-    alt="Contribution Graph" />
-</div>
-
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
-</div>
-
 ## Tech Stack & Tools
 <div align="center">
 
@@ -57,7 +49,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-
   <br/><br/>
   <b>AI/ML & Data Science</b>
   <br/>
@@ -68,7 +59,6 @@
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-
   <br/><br/>
   <b>Tools & Platforms</b>
   <br/>
@@ -141,27 +131,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
   </picture>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
-</div>
-
-##  Let's Connect!
-<div align="center">
-  <a href="mailto:longnguyen132005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  <a href="https://twitter.com/yourprofile">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://kaggle.com/yourprofile">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  </a>
-
-  <br/><br/>
-
-  <!-- Spotify (nếu vẫn gãy thì do token/server của novatorem) -->
-  [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-id)
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
