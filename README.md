@@ -1,4 +1,4 @@
-# Hello, I'm Nguyen Ba Long - aka NBasLongz
+# Hello, I'm Nguyen Ba Long — パク・ヨンウン と申します。🐕
 
 <table>
   <tr>
@@ -17,7 +17,7 @@
   </tr>
 </table>
 
-### 📫 Contact me via:
+### 🪶 Contact me via:
 <p align="center">
   <a href="mailto:longnguyen132005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="www.linkedin.com/in/long-nguyen-ba-48713a3a9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -30,11 +30,11 @@
 
 
 ### What I'm Up To
--  **Current Project:** Building advanced NLP models for Vietnamese text analysis
+-  **Current Project:** 
 -  **Learning:** MLOps, Kubernetes, and Advanced Deep Learning architectures
 -  **Collaboration:** Open to collaborating on AI/ML research and projects
--  **Ask me about:** Machine Learning, Data Science, Python, AI Ethics
--  **Reach me:** [Email](mailto:longnguyen132005@gmail.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
+-  **Ask me about:** Machine Learning, Python, AI Ethics
+-  **Reach me:** [Email](mailto:longnguyen132005@gmail.com) | [LinkedIn](www.linkedin.com/in/long-nguyen-ba-48713a3a9)
 -  **Fun fact:** I debug code in my dreams 😴💭
 
 <div align="center">
