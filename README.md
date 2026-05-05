@@ -36,7 +36,7 @@
 -  **Collaboration:** Open to collaborating on AI/ML research and projects
 -  **Ask me about:** Machine Learning, Python, AI Ethics
 -  **Reach me:** [Email](mailto:longnguyen132005@gmail.com) | [LinkedIn](https://www.linkedin.com/in/long-nguyen-ba-48713a3a9/)
--  **Fun fact:** I debug code in my dreams 😴💭
+-  **Fun fact:** Talk with pp in my dreams 😴💭
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
