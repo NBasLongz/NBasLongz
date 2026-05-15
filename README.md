@@ -1,14 +1,13 @@
-# Hello, I'm Nguyen Ba Long — パク・ヨンウン と申します。🐳
+# Hi, I'm Nguyen Ba Long 
 
 <table align="center" width="100%">
   <tr>
     <td width="60%" valign="middle">
       <ul>
-        <li>  Student at <b>University of Information Technology (UIT)</b></li>
-        <li>  Future <b>Machine Learning Engineer</b></li>
-        <li>  Passionate about <b>AI & Natural Language Processing</b></li>
-        <li>  Favorite hobby: <b>Coding</b> & <b>Researching</b></li>
-        <li> 🇯🇵 Also known as: <b>パク・ヨンウン</b> (Park Young Woun)</li>
+        <li>Computer Science student at <b>University of Information Technology - VNUHCM</b></li>
+        <li>Interested in <b>AI/ML, NLP, RAG Systems, and Reinforcement Learning</b></li>
+        <li>Building academic and personal projects with <b>Python, PyTorch, FastAPI, LangChain, and LangGraph</b></li>
+        <li>Currently looking for an <b>AI/ML Engineer Intern</b> opportunity</li>
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
@@ -18,11 +17,11 @@
 </table>
 
 
-### 🪶 Contact me via:
+### Contact me
+
 <p align="center">
   <a href="mailto:longnguyen132005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/long-nguyen-ba-48713a3a9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.facebook.com/javk.nguyen.7"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nbl2005/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <div align="center">
@@ -31,12 +30,12 @@
 
 
 ### What I'm Up To
--  **Current Project:** 
--  **Learning:** MLOps, Kubernetes, and Advanced Deep Learning architectures
--  **Collaboration:** Open to collaborating on AI/ML research and projects
--  **Ask me about:** Machine Learning, Python, AI Ethics
--  **Reach me:** [Email](mailto:longnguyen132005@gmail.com) | [LinkedIn](https://www.linkedin.com/in/long-nguyen-ba-48713a3a9/)
--  **Fun fact:** Talk with pp in my dreams 😴💭
+
+- **Current focus:** AI/ML, Vietnamese NLP, RAG systems, and reinforcement learning
+- **Recent projects:** DashBot A3C Dashboard Generation, Temporal RAG for UIT Course Video Retrieval, Vietnamese Hate Speech Detector
+- **Learning:** MLOps, Docker, evaluation methods, and practical deep learning workflows
+- **Open to:** AI/ML Engineer Intern and NLP-related internship opportunities
+- **Reach me:** [Email](mailto:longnguyen132005@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nbl2005/)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
@@ -48,32 +47,68 @@
   <b>Languages</b>
   <br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <br/><br/>
+
   <b>AI/ML & Data Science</b>
   <br/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/BERT-1F425F?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/PhoBERT-0A66C2?style=for-the-badge&logo=dependabot&logoColor=white" />
+  <img src="https://img.shields.io/badge/mBERT-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/TF--IDF-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <br/><br/>
+
+  <b>NLP, RAG & Search</b>
+  <br/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/BM25-5A5A5A?style=for-the-badge&logo=searchengineland&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector_Search-6A5ACD?style=for-the-badge&logo=semanticweb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hybrid_Retrieval-FF6F00?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reranking-8A2BE2?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAGAS-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logo=observable&logoColor=white" />
+  <br/><br/>
+
+  <b>Backend & Databases</b>
+  <br/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+  <img src="https://img.shields.io/badge/RESTful_API-02569B?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <br/><br/>
+
+  <b>Frontend, Demo & Visualization</b>
+  <br/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+  <br/><br/>
+
   <b>Tools & Platforms</b>
   <br/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
-</div>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 </div>
-
 ## Detailed Analytics
 <div align="center">
   <table align="center">
